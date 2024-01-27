@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SplitwizeConsoleApp/1.0.0": {
+        "dependencies": {
+          "Splitwize": "1.0.0"
+        },
+        "runtime": {
+          "SplitwizeConsoleApp.dll": {}
+        }
+      },
+      "Splitwize/1.0.0": {
+        "runtime": {
+          "Splitwize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SplitwizeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Splitwize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
