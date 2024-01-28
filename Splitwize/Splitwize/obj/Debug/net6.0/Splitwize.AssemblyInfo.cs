@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Splitwize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8205b72cc6ddf76a6e47e731416306ba41c81e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Splitwize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Splitwize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

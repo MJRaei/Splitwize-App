@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\Splitwize\\Splitwize.csproj",
+      "projectUniqueName": "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\Splitwize\\Splitwize.csproj",
       "projectName": "Splitwize",
-      "projectPath": "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\Splitwize\\Splitwize.csproj",
+      "projectPath": "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\Splitwize\\Splitwize.csproj",
       "packagesPath": "C:\\Users\\Javad ProcessEcology\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\Splitwize\\obj\\",
+      "outputPath": "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\Splitwize\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javad ProcessEcology\\AppData\\Roaming\\NuGet\\NuGet.Config",

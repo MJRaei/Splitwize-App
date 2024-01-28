@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Splitwize
 {
-    public class ExpenseCalculator : GroupExpenseCalculator
+    public class ExpenseCalculator : Groups
     {
         public SplitMethod SplitedMethod { get; set; }
         public double TotalAmount { get; set; }

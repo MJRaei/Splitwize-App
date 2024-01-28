@@ -45,12 +45,13 @@ namespace SplitwizeConsoleApp
             //expense3.Execute();
 
             group1.Execute();
+            //group1.Execute();
 
             foreach (ExpenseCalculator expense in group1.Expense)
             {
                 foreach (KeyValuePair<List<Members>, double> dic in expense.OwersExpenseSplitor)
                 {
-                    Console.WriteLine(dic.Value);
+                    Console.WriteLine(dic.Key[1].FirstName + dic.Value.ToString());
                 }
             }
 
@@ -64,11 +65,12 @@ namespace SplitwizeConsoleApp
                             }
                         }*/
 
-            group1.ExpenseSimplifier = true;
+            //group1.ExpenseSimplifier = true;
+            //group1.Execute();
 
             foreach (var dic in group1.MemberBalance)
             {
-                Console.WriteLine(dic.Key.FirstName);
+                Console.WriteLine(dic.Key.FirstName + dic.Value.ToString());
             }
 
 /*            foreach (var members in group1.GroupMembers)

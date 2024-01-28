@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\SplitwizeConsoleApp\\SplitwizeConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\SplitwizeConsoleApp\\SplitwizeConsoleApp.csproj",
       "projectName": "SplitwizeConsoleApp",
-      "projectPath": "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\SplitwizeConsoleApp\\SplitwizeConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\SplitwizeConsoleApp\\SplitwizeConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Javad ProcessEcology\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\SplitwizeConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\SplitwizeConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javad ProcessEcology\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\Splitwize\\Splitwize.csproj": {
-              "projectPath": "C:\\Users\\Javad ProcessEcology\\source\\repos\\Splitwize\\Splitwize\\Splitwize.csproj"
+            "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\Splitwize\\Splitwize.csproj": {
+              "projectPath": "C:\\Users\\Javad ProcessEcology\\Documents\\GitHub\\Splitwize-App\\Splitwize\\Splitwize\\Splitwize.csproj"
             }
           }
         }

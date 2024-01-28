@@ -9,3 +9,15 @@ C:\Users\Javad ProcessEcology\source\repos\Splitwize\Splitwize\obj\Debug\net6.0\
 C:\Users\Javad ProcessEcology\source\repos\Splitwize\Splitwize\obj\Debug\net6.0\refint\Splitwize.dll
 C:\Users\Javad ProcessEcology\source\repos\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.pdb
 C:\Users\Javad ProcessEcology\source\repos\Splitwize\Splitwize\obj\Debug\net6.0\ref\Splitwize.dll
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\bin\Debug\net6.0\Splitwize.deps.json
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\bin\Debug\net6.0\Splitwize.dll
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\bin\Debug\net6.0\Splitwize.pdb
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.AssemblyInfoInputs.cache
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.AssemblyInfo.cs
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.csproj.CoreCompileInputs.cache
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.sourcelink.json
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.dll
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\refint\Splitwize.dll
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\Splitwize.pdb
+C:\Users\Javad ProcessEcology\Documents\GitHub\Splitwize-App\Splitwize\Splitwize\obj\Debug\net6.0\ref\Splitwize.dll
