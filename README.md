@@ -1,2 +1,2 @@
 # Splitwize-App
-This is the Splitwize app written in C#.
+This is a Splitwize app written in C#.
